@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Bennet8
 - 👀 I’m interested in web development, artificial intelligence, and football
 - 🌱 I’m currently learning JavaScript, HTML and CSS
-- 💞️ I’m looking to collaborate on anyone
+- 💞️ I’m looking to collaborate with everyone
 - 📫 How to reach me: bennet.foerstel@gmail.com
 
 <!---
